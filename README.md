@@ -2,6 +2,8 @@
 A fork of a fork.  <br>
 Created a version using KiCad 9, with rounded corners and more information to make the build more "idiot proof".<br>
 
+![3D view](/TI994A_PSU_Replacement/TI_994A_PSU_Replacement_3D.png)
+
 Replaces the 99/4A's original 18VAC/7.5VAC power supply with a regulated 12VDC supply.  The board then generates the required ±5VDC voltages using a DC-DC buck converter (+5VDC) and switching regulator (-5VDC).  The +12VDC comes directly from the external power supply.<br>
 
 ## Main Parts
@@ -14,5 +16,5 @@ Replaces the 99/4A's original 18VAC/7.5VAC power supply with a regulated 12VDC s
 - [dabone's fork](https://github.com/dabonetn/ti99psu-replacement)
 
 ## Status
-- 2-Nov-2025: Designed, not yet fabbed & tested
+- 2-Nov-2025: Designed, not yet fabbed & tested, need to double-check switch position
 
