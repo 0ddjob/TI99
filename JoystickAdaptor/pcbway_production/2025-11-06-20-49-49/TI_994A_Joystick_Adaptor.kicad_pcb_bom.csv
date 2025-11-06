@@ -1,0 +1,4 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+J1,1,TI Joystick Port,DSUB-9_Socket_Vertical_P2.77x2.84mm,,,,tht,"9-pin D-SUB connector, socket (female)"
+J2,1,Atari Joystick A,DSUB-9_Pins_Vertical_P2.77x2.84mm,,,,tht,"9-pin D-SUB connector, pins (male)"
+J3,1,Atari Joystick B,DSUB-9_Pins_Vertical_P2.77x2.84mm,,,,tht,"9-pin D-SUB connector, pins (male)"

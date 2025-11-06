@@ -1,0 +1,4 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+80.64,-61.0,180.0,bottom,J1,,,DSUB-9_Socket_Vertical_P2.77x2.84mm,TI Joystick Port,tht
+80.64,-73.7,0.0,top,J2,,,DSUB-9_Pins_Vertical_P2.77x2.84mm,Atari Joystick A,tht
+80.64,-48.3,0.0,top,J3,,,DSUB-9_Pins_Vertical_P2.77x2.84mm,Atari Joystick B,tht
