@@ -24,3 +24,15 @@ Wanted to design my own joystick adaptor, so I did.
 
 ![3D front view](/JoystickAdaptor/TI_994A_Joystick_Adaptor_Front_3D.png)
 ![3D back view](/JoystickAdaptor/TI_994A_Joystick_Adaptor_Back_3D.png)
+
+# [Cassette Adaptor #1](/CassetteAdaptor)
+Wanted to design a cassette adaptor as an alternative to using a cable because, why not?  I normally play WAV files from my computer using a cable - this design lets me simply plug the cable into.<br>
+
+This design is vertical and plugs into the DE9 socket to provide a 3.5mm EAR and 3.5mm MIC socket for CS1.<br>
+
+![Cassette Adaptor 1 3D](/CassetteAdaptor/CassetteAdaptor1_3D.png)
+
+# [Cassette Adaptor #2](/CassetteAdaptor2)
+This design is horizontal and plugs into the DE9 socket to provide a 3.5mm EAR and 3.5mm MIC socket for CS1.<br>
+
+![Cassette Adaptor 2 3D](/CassetteAdaptor/CassetteAdaptor2_3D.png)
