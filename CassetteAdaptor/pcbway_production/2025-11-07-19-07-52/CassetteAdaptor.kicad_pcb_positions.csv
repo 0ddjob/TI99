@@ -1,0 +1,4 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+114.69,-69.0,180.0,bottom,J1,,,DSUB-9_Socket_Vertical_P2.77x2.84mm_MountingHoles,Cassette,tht
+111.885,-60.84,0.0,top,J2,SJ3-35052B,,SJ335052B,SJ3-35052B,tht
+130.885,-60.84,0.0,top,J3,SJ3-35052B,,SJ335052B,SJ3-35052B,tht
