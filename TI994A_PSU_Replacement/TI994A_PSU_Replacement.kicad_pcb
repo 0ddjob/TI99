@@ -3249,6 +3249,28 @@
 		(embedded_fonts no)
 	)
 	(gr_rect
+		(start 79.507434 115.120919)
+		(end 98.007434 116.870919)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "2f7df747-983f-40a4-9959-1a15eba39647")
+	)
+	(gr_rect
+		(start 81.757434 71.245919)
+		(end 101.257434 75.745919)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b0821140-1264-4b97-bbe2-ca57ddeada84")
+	)
+	(gr_rect
 		(start 116 89)
 		(end 136 109)
 		(stroke
@@ -3403,6 +3425,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "REGULATED 12VDC ONLY"
+		(at 79.507434 116.620919 0)
+		(layer "F.SilkS")
+		(uuid "497137ac-8b87-40e0-ac84-52d23925c342")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "DFR0831 DC-DC \nBuck Converter"
 		(at 140 113 90)
 		(layer "F.SilkS")
@@ -3460,6 +3494,18 @@
 			(font
 				(size 1 1)
 				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "If MOSFET not installed,\nbridge Drain and Source"
+		(at 82.007434 74.995919 0)
+		(layer "F.SilkS")
+		(uuid "b9c5666c-122f-49c9-99d1-a5a451215a29")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -3563,25 +3609,6 @@
 				(bold yes)
 			)
 			(justify left top mirror)
-		)
-		(border yes)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-	)
-	(gr_text_box "If MOSFET not installed,\nbridge Drain and Source"
-		(start 81.516587 70)
-		(end 102.483412 75.066349)
-		(margins 1.0025 1.0025 1.0025 1.0025)
-		(layer "F.SilkS")
-		(uuid "b3b669c3-4b96-4ccf-be70-66d311ff3845")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify left top)
 		)
 		(border yes)
 		(stroke
@@ -7781,6 +7808,14 @@
 				(xy 80.065892 49.5005) (xy 195.934108 49.5005) (xy 195.995572 49.5005)
 			)
 		)
+	)
+	(group ""
+		(uuid "01f72072-629e-4655-95c1-2eeff573017c")
+		(members "b0821140-1264-4b97-bbe2-ca57ddeada84" "b9c5666c-122f-49c9-99d1-a5a451215a29")
+	)
+	(group ""
+		(uuid "de011d2f-b63e-45ae-863a-b6b83cfc6351")
+		(members "2f7df747-983f-40a4-9959-1a15eba39647" "497137ac-8b87-40e0-ac84-52d23925c342")
 	)
 	(embedded_fonts no)
 )
